@@ -174,7 +174,7 @@ input[type=checkbox] {
     transition: all 10ms ease-in;
 }
 
-.no-active {
+#copied-text {
     position: absolute;
     top: -10px;
     right: 8px;
